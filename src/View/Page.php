@@ -400,7 +400,7 @@ class Page extends View
             'title'        => $this->getTitle(),
             'breadcrumbs'  => $displayTrail ? $breadcrumbs : [],
             'navigator'    => $this->navigator ? $this->navigator->getData() : [],
-            'helpLink'     => $this->action['helpURL'] ?? '',
+            //'helpLink'     => $this->action['helpURL'] ?? '',
             'alerts'       => $this->getAlerts(),
             'stylesheets'  => $this->getAllStylesheets(),
             'scriptsHead'  => $this->getAllScripts('head'),

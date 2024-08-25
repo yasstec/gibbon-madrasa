@@ -1,0 +1,2604 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Gibbon\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural= n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+
+msgid "%"
+msgstr "%"
+
+msgid " "
+msgstr "␣"
+
+msgid " (Main Tutor)"
+msgstr " (المدرس الرئيسي)"
+
+msgid "No upcoming due dates!"
+msgstr "لا تواريخ استحقاق قادمة!"
+
+msgid "These settings allow a particular type of external assessment to be associated with each year group. The selected assessment will be used as the primary assessment to be used as a baseline for comparison (for example, within the Markbook). You are required to select a particular field category from which to draw data (if no category is chosen, the data will not be saved)."
+msgstr "تسمح هذه الإعدادات بربط نوع معين من التقييم الخارجي بكل مجموعة سنوية. سيتم استخدام التقييم المحدد كتقييم رئيسي ليكون بمثابة مرجع للمقارنة (على سبيل المثال، داخل دفتر الدرجات). يُطلب منك اختيار فئة حقل معينة لاستخراج البيانات منها (إذا لم يتم اختيار أي فئة، فلن يتم حفظ البيانات)."
+
+msgid " Data"
+msgstr " البيانات"
+
+msgid "%"
+msgstr "%"
+
+msgid "%1$s  birthday today!"
+msgstr "عيد ميلاد %1$s اليوم!"
+
+msgid "%1$s (%2$s) received a report for %3$s from %4$s"
+msgstr "%1$s (%2$s) تلقى تقريراً عن %3$s من %4$s"
+
+msgid "%1$s Application Form Confirmation"
+msgstr "تأكيد نموذج طلب %1$s"
+
+msgid "%1$s Class Absent"
+msgstr "%1$s الفصل غائب"
+
+msgid "%1$s Classes Absent"
+msgstr "%1$s الفصول غائبة"
+
+msgid "%1$s Cost (%2$s)"
+msgstr "%1$s التكلفة (%2$s)"
+
+msgid "%1$s Day Absent"
+msgstr "%1$s يوم غائب"
+
+msgid "%1$s Days Absent"
+msgstr "%1$s أيام غائبة"
+
+msgid "%1$s Finance"
+msgstr "%1$s المالية"
+
+msgid "%1$s Outcomes"
+msgstr "%1$s النتائج"
+
+msgid "%1$s SMS(es) were dispatched in %2$s batch(es)."
+msgstr "%1$s رسالة نصية تم إرسالها في %2$s دفعة."
+
+msgid "%1$s adds failed."
+msgstr "إضافات %1$s فشلت."
+
+msgid "%1$s already in use"
+msgstr "%1$s قيد الاستخدام بالفعل"
+
+msgid "%1$s available"
+msgstr "%1$s متاح"
+
+msgid "%1$s classes have not been registered today (%2$s)."
+msgstr "الفصول %1$s لم يتم تسجيلها اليوم (%2$s)."
+
+msgid "%1$s email(s) were dispatched."
+msgstr "%1$s بريد إلكتروني تم إرساله."
+
+msgid "%1$s expense requests in current view"
+msgstr "طلبات النفقات %1$s في العرض الحالي"
+
+msgid "%1$s form groups have not been registered today  (%2$s)."
+msgstr "%1$s مجموعات النماذج لم يتم تسجيلها اليوم (%2$s)."
+
+msgid "%1$s has added a student note (\"%2$s\") about %3$s."
+msgstr "%1$s أضاف ملاحظة طالب (\"%2$s\") حول %3$s."
+
+msgid "%1$s has altered the privacy settings for %2$s."
+msgstr "%1$s غير إعدادات الخصوصية لـ %2$s."
+
+msgid "%1$s has been bumped into activity %2$s"
+msgstr "%1$s تم نقله إلى النشاط %2$s"
+
+msgid "%1$s has registered for the activity %2$s (%3$s)"
+msgstr "%1$s سجل في النشاط %2$s (%3$s)"
+
+msgid "%1$s has updated the individual needs record for %2$s."
+msgstr "%1$s قام بتحديث سجل الاحتياجات الفردية لـ %2$s."
+
+msgid "%1$s has withdrawn from the activity %2$s"
+msgstr "%1$s انسحب من النشاط %2$s"
+
+msgid "%1$s invoice(s) in current view"
+msgstr "%1$s فاتورة(فاتورة) في العرض الحالي"
+
+msgid "%1$s of your tables are not set to InnoDB."
+msgstr "%1$s من جداولك غير محددة كـ InnoDB."
+
+msgid "%1$s record(s) in current view"
+msgstr "%1$s سجل(سجلات) في العرض الحالي"
+
+msgid ""
+"%1$s students have been assigned to houses. These results include all "
+"student counts by house, updated year groups are highlighted in green. Hover "
+"over a number to see the balance by gender."
+msgstr ""
+"تم تعيين طلاب %1$s إلى المنازل. تشمل هذه النتائج جميع أعداد الطلاب حسب المنزل، والفصول الدراسية المحدثة مميزة باللون الأخضر. مرر الماوس فوق الرقم لرؤية التوازن حسب الجنس."
+
+msgid "%1$s updates failed."
+msgstr "تحديثات %1$s فشلت."
+
+msgid "%1$sClick here%2$s to configure SMS settings."
+msgstr "%1$sانقر هنا%2$s لتكوين إعدادات الرسائل النصية."
+
+msgid "%s Version"
+msgstr "%s إصدار"
+
+msgid "%s files checked (%s publicly writeable)"
+msgstr "%s ملفات تم التحقق منها (%s يمكن كتابتها علنياً)"
+
+msgid "%s requires %s version %s or higher"
+msgstr "%s يتطلب %s إصدار %s أو أعلى"
+
+msgid "(Active)"
+msgstr "(نشط)"
+
+msgid "(CC Self?)"
+msgstr "(CC إرسال إلى نفسي?)"
+
+msgid "(Current Year Only)"
+msgstr "(السنة الحالية فقط)"
+
+msgid "(Family CC)"
+msgstr "(عائلة CC)"
+
+msgid "(e.g. father)"
+msgstr "(مثل: الأب)"
+
+msgid "(e.g. mother)"
+msgstr "(مثل: الأم)"
+
+msgid ")"
+msgstr ")"
+
+msgid "+ {count} defaults"
+msgstr "+ {count} قيم افتراضية"
+
+msgid ""
+"../config.php could not be created, and so the installer cannot proceed."
+msgstr ""
+"تعذر إنشاء الملف ../config.php، لذا لا يمكن للبرنامج المثبت الاستمرار."
+
+msgid "../config.php could not be created."
+msgstr "تعذر إنشاء ../config.php."
+
+msgid "../gibbon.sql does not exist, and so the installer cannot proceed."
+msgstr ""
+"الملف ../gibbon.sql غير موجود، لذا لا يمكن للبرنامج المثبت الاستمرار."
+
+msgid "../gibbon_demo.sql does not exist."
+msgstr "../gibbon_demo.sql غير موجود."
+
+msgid "0%"
+msgstr "0%"
+
+msgid "1"
+msgstr "1"
+
+msgid "1 Day"
+msgstr "يوم واحد"
+
+msgid "1 Month"
+msgstr "شهر واحد"
+
+msgid "1 Week"
+msgstr "أسبوع واحد"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "10"
+msgstr "10"
+
+msgid "10 Years"
+msgstr "10 سنوات"
+
+msgid "10%"
+msgstr "10%"
+
+msgid "100"
+msgstr "100"
+
+msgid "100 (highest) to 0 (lowest)"
+msgstr "100 (الأعلى) إلى 0 (الأدنى)"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "101"
+msgstr "101"
+
+msgid "102"
+msgstr "102"
+
+msgid "103"
+msgstr "103"
+
+msgid "104"
+msgstr "104"
+
+msgid "105"
+msgstr "105"
+
+msgid "106"
+msgstr "106"
+
+msgid "107"
+msgstr "107"
+
+msgid "108"
+msgstr "108"
+
+msgid "109"
+msgstr "109"
+
+msgid "11"
+msgstr "11"
+
+msgid "11%"
+msgstr "11%"
+
+msgid "110"
+msgstr "110"
+
+msgid "111"
+msgstr "111"
+
+msgid "112"
+msgstr "112"
+
+msgid "113"
+msgstr "113"
+
+msgid "114"
+msgstr "114"
+
+msgid "115"
+msgstr "115"
+
+msgid "116"
+msgstr "116"
+
+msgid "117"
+msgstr "117"
+
+msgid "118"
+msgstr "118"
+
+msgid "119"
+msgstr "119"
+
+msgid "12"
+msgstr "12"
+
+msgid "12%"
+msgstr "12%"
+
+msgid "120"
+msgstr "120"
+
+msgid "121"
+msgstr "121"
+
+msgid "122"
+msgstr "122"
+
+msgid "123"
+msgstr "123"
+
+msgid "124"
+msgstr "124"
+
+msgid "125"
+msgstr "125"
+
+msgid "125x125px jpg/png/gif"
+msgstr "125x125px jpg/png/gif"
+
+msgid "126"
+msgstr "126"
+
+msgid "127"
+msgstr "127"
+
+msgid "128"
+msgstr "128"
+
+msgid "129"
+msgstr "129"
+
+msgid "13"
+msgstr "13"
+
+msgid "13%"
+msgstr "13%"
+
+msgid "130"
+msgstr "130"
+
+msgid "131"
+msgstr "131"
+
+msgid "132"
+msgstr "132"
+
+msgid "133"
+msgstr "133"
+
+msgid "134"
+msgstr "134"
+
+msgid "135"
+msgstr "135"
+
+msgid "136"
+msgstr "136"
+
+msgid "137"
+msgstr "137"
+
+msgid "138"
+msgstr "138"
+
+msgid "139"
+msgstr "139"
+
+msgid "14"
+msgstr "14"
+
+msgid "14%"
+msgstr "14%"
+
+msgid "140"
+msgstr "140"
+
+msgid "140 (highest) to 60 (lowest)"
+msgstr "140 (الأعلى) إلى 60 (الأدنى)"
+
+msgid "141"
+msgstr "141"
+
+msgid "15"
+msgstr "15"
+
+msgid "15%"
+msgstr "15%"
+
+msgid "16"
+msgstr "16"
+
+msgid "16%"
+msgstr "16%"
+
+msgid "17"
+msgstr "17"
+
+msgid "17%"
+msgstr "17%"
+
+msgid "18"
+msgstr "18"
+
+msgid "18%"
+msgstr "18%"
+
+msgid "19"
+msgstr "19"
+
+msgid "19%"
+msgstr "19%"
+
+msgid "2"
+msgstr "2"
+
+msgid "2%"
+msgstr "2%"
+
+msgid "2. Column is hidden until date is reached."
+msgstr "2. العمود مخفي حتى يتم الوصول إلى التاريخ."
+
+msgid "2. Reports are hidden until date is reached."
+msgstr "2. التقارير مخفية حتى يتم الوصول إلى التاريخ."
+
+msgid "20"
+msgstr "20"
+
+msgid "20%"
+msgstr "20%"
+
+msgid "21"
+msgstr "21"
+
+msgid "21%"
+msgstr "21%"
+
+msgid "22"
+msgstr "22"
+
+msgid "22%"
+msgstr "22%"
+
+msgid "23"
+msgstr "23"
+
+msgid "23%"
+msgstr "23%"
+
+msgid "24"
+msgstr "24"
+
+msgid "24%"
+msgstr "24%"
+
+msgid "240px by 320px"
+msgstr "240px × 320px"
+
+msgid "240px x 240px or smaller."
+msgstr "240px × 240px أو أصغر."
+
+msgid "25"
+msgstr "25"
+
+msgid "25%"
+msgstr "25%"
+
+msgid "255 character limit"
+msgstr "حد 255 حرفاً"
+
+msgid "26"
+msgstr "26"
+
+msgid "26%"
+msgstr "26%"
+
+msgid "27"
+msgstr "27"
+
+msgid "27%"
+msgstr "27%"
+
+msgid "28"
+msgstr "28"
+
+msgid "28%"
+msgstr "28%"
+
+msgid "29"
+msgstr "29"
+
+msgid "29%"
+msgstr "29%"
+
+msgid "3"
+msgstr "3"
+
+msgid "3 Months"
+msgstr "3 أشهر"
+
+msgid "3%"
+msgstr "3%"
+
+msgid "30"
+msgstr "30"
+
+msgid "30%"
+msgstr "30%"
+
+msgid "31"
+msgstr "31"
+
+msgid "31%"
+msgstr "31%"
+
+msgid "32"
+msgstr "32"
+
+msgid "32%"
+msgstr "32%"
+
+msgid "45 (highest) to 0"
+msgstr "45 (الأعلى) إلى 0"
+
+msgid "33"
+msgstr "33"
+
+msgid "33%"
+msgstr "33%"
+
+msgid "34"
+msgstr "35"
+
+msgid "34%"
+msgstr "34%"
+
+msgid "35"
+msgstr "35"
+
+msgid "35%"
+msgstr "35%"
+
+msgid "36"
+msgstr "36"
+
+msgid "36%"
+msgstr "36%"
+
+msgid "37"
+msgstr "37"
+
+msgid "37%"
+msgstr "37%"
+
+msgid "38"
+msgstr "38"
+
+msgid "38%"
+msgstr "38%"
+
+msgid "39"
+msgstr "39"
+
+msgid "39%"
+msgstr "39%"
+
+msgid "3rd Generation Partnership Video"
+msgstr "Vidéo 3GP (3rd Generation Partnership)"
+
+msgid "4"
+msgstr "4"
+
+msgid "4%"
+msgstr "4%"
+
+msgid "40"
+msgstr "40"
+
+msgid "40%"
+msgstr "40%"
+
+msgid "41"
+msgstr "41"
+
+msgid "41%"
+msgstr "41%"
+
+msgid "42"
+msgstr "42"
+
+msgid "42%"
+msgstr "42%"
+
+msgid "43"
+msgstr "42"
+
+msgid "43%"
+msgstr "43%"
+
+msgid "44"
+msgstr "44"
+
+msgid "44%"
+msgstr "44%"
+
+msgid "45%"
+msgstr "45%"
+
+msgid "46%"
+msgstr "46%"
+
+msgid "47%"
+msgstr "47%"
+
+msgid "48%"
+msgstr "48%"
+
+msgid "49%"
+msgstr "49%"
+
+msgid "4A"
+msgstr "4A"
+
+msgid "4B"
+msgstr "4B"
+
+msgid "4C"
+msgstr "4C"
+
+msgid "5"
+msgstr "5"
+
+msgid "5%"
+msgstr "5%"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "51%"
+msgstr "51%"
+
+msgid "52%"
+msgstr "52%"
+
+msgid "53%"
+msgstr "53%"
+
+msgid "54%"
+msgstr "54%"
+
+msgid "55%"
+msgstr "55%"
+
+msgid "56%"
+msgstr "56%"
+
+msgid "57%"
+msgstr "57%"
+
+msgid "58%"
+msgstr "58%"
+
+msgid "59%"
+msgstr "59%"
+
+msgid "5A"
+msgstr "5A"
+
+msgid "5B"
+msgstr "5B"
+
+msgid "5C"
+msgstr "5C"
+
+msgid "6"
+msgstr "6"
+
+msgid "6 Months"
+msgstr "6 أشهر"
+
+msgid "6%"
+msgstr "6%"
+
+msgid "60 Days Ago"
+msgstr "منذ 60 يومًا"
+
+msgid "60"
+msgstr "60"
+
+msgid "60%"
+msgstr "60%"
+
+msgid "61"
+msgstr "61"
+
+msgid "61%"
+msgstr "61%"
+
+msgid "62"
+msgstr "62"
+
+msgid "62%"
+msgstr "62%"
+
+msgid "63"
+msgstr "63"
+
+msgid "63%"
+msgstr "63%"
+
+msgid "64"
+msgstr "64"
+
+msgid "64%"
+msgstr "64%"
+
+msgid "65"
+msgstr "65"
+
+msgid "65%"
+msgstr "65%"
+
+msgid "66"
+msgstr "66"
+
+msgid "66%"
+msgstr "66%"
+
+msgid "67"
+msgstr "67"
+
+msgid "67%"
+msgstr "67%"
+
+msgid "68"
+msgstr "68"
+
+msgid "68%"
+msgstr "68%"
+
+msgid "69"
+msgstr "69"
+
+msgid "69%"
+msgstr "69%"
+
+msgid "6A"
+msgstr "6A"
+
+msgid "6B"
+msgstr "6B"
+
+msgid "6C"
+msgstr "6C"
+
+msgid "7"
+msgstr "7"
+
+msgid "7 (highest) to 1 (lowest)"
+msgstr "7 (الأعلى) إلى 1 (الأدنى)"
+
+msgid "7%"
+msgstr "7%"
+
+msgid "70"
+msgstr "70"
+
+msgid "70%"
+msgstr "70%"
+
+msgid "71"
+msgstr "71"
+
+msgid "71%"
+msgstr "71%"
+
+msgid "72"
+msgstr "72"
+
+msgid "72%"
+msgstr "72%"
+
+msgid "73"
+msgstr "73"
+
+msgid "73%"
+msgstr "73%"
+
+msgid "74"
+msgstr "74"
+
+msgid "74%"
+msgstr "75%"
+
+msgid "75"
+msgstr "75"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "76"
+msgstr "76%"
+
+msgid "76%"
+msgstr "76%"
+
+msgid "77"
+msgstr "77"
+
+msgid "77%"
+msgstr "77%"
+
+msgid "78"
+msgstr "78"
+
+msgid "78%"
+msgstr "78%"
+
+msgid "79"
+msgstr "79"
+
+msgid "79%"
+msgstr "79%"
+
+msgid "7A"
+msgstr "7A"
+
+msgid "7B"
+msgstr "7B"
+
+msgid "7C"
+msgstr "7C"
+
+msgid "8"
+msgstr "8"
+
+msgid "8%"
+msgstr "8%"
+
+msgid "80"
+msgstr "80"
+
+msgid "80%"
+msgstr "80%"
+
+msgid "81"
+msgstr "81"
+
+msgid "81%"
+msgstr "81%"
+
+msgid "82"
+msgstr "82"
+
+msgid "82%"
+msgstr "82%"
+
+msgid "83"
+msgstr "83"
+
+msgid "83%"
+msgstr "83%"
+
+msgid "84"
+msgstr "84"
+
+msgid "84%"
+msgstr "84%"
+
+msgid "85"
+msgstr "85"
+
+msgid "85%"
+msgstr "85%"
+
+msgid "86"
+msgstr "86"
+
+msgid "86%"
+msgstr "86%"
+
+msgid "87"
+msgstr "87"
+
+msgid "87%"
+msgstr "87%"
+
+msgid "88"
+msgstr "88"
+
+msgid "88%"
+msgstr "88%"
+
+msgid "89"
+msgstr "89"
+
+msgid "89%"
+msgstr "89%"
+
+msgid "8A"
+msgstr "8A"
+
+msgid "8A (highest) to B3 (lowest)"
+msgstr "8A (الأعلى) إلى B3 (الأدنى)"
+
+msgid "8B"
+msgstr "8B"
+
+msgid "8C"
+msgstr "8C"
+
+msgid "9"
+msgstr "9"
+
+msgid "9%"
+msgstr "9%"
+
+msgid "90"
+msgstr "90"
+
+msgid "90%"
+msgstr "90%"
+
+msgid "91"
+msgstr "91"
+
+msgid "91%"
+msgstr "91%"
+
+msgid "92"
+msgstr "92"
+
+msgid "92%"
+msgstr "92%"
+
+msgid "93"
+msgstr "93"
+
+msgid "93%"
+msgstr "93%"
+
+msgid "94"
+msgstr "94"
+
+msgid "94%"
+msgstr "94%"
+
+msgid "95"
+msgstr "95"
+
+msgid "95%"
+msgstr "95%"
+
+msgid "96"
+msgstr "96"
+
+msgid "96%"
+msgstr "96%"
+
+msgid "97"
+msgstr "97"
+
+msgid "97%"
+msgstr "97%"
+
+msgid "98"
+msgstr "98"
+
+msgid "98%"
+msgstr "98%"
+
+msgid "99"
+msgstr "99"
+
+msgid "99%"
+msgstr "99%"
+
+msgid ""
+"<b>Markbook</b> provides an organised way to assess, record and report on "
+"student progress. Use grade scales, rubrics, comments and file uploads to "
+"keep students and parents up to date. Link markbooks to the %1$sPlanner%2$s, "
+"and see student work as you are marking it.<br/><br/>Choose a class from the "
+"menu on the right, and then click on the \"Add\" button (below this message, "
+"on the right) to create a new markbook column."
+msgstr ""
+"<b>دفتر العلامات</b> يوفر طريقة منظمة لتقييم وتسجيل وإبلاغ تقدم الطلاب. استخدم "
+"مقاييس الدرجات، ومقاييس التقييم، والتعليقات، ورفع الملفات لإبقاء الطلاب وأولياء "
+"الأمور على اطلاع. اربط دفاتر العلامات بـ %1$sالمنظم%2$s، وشاهد عمل الطلاب أثناء "
+"تقديره.<br/><br/>اختر فصلًا من القائمة على اليمين، ثم انقر على زر \"إضافة\" (أسفل "
+"هذه الرسالة، على اليمين) لإنشاء عمود جديد في دفتر العلامات."
+
+msgid ""
+"<b>Note</b>: You need to be in a department, with the correct permissions, "
+"in order to be able to do this."
+msgstr ""
+"<b>ملاحظة</b>: تحتاج إلى أن تكون في قسم، مع الأذونات الصحيحة، لتتمكن من القيام بذلك."
+
+msgid ""
+"<b>Note</b>: You need to have classes assigned to you, with the correct "
+"permissions, in order to be able to do this."
+msgstr ""
+"<b>ملاحظة</b>: تحتاج إلى أن تكون لديك دروس مخصصة لك، مع الأذونات الصحيحة، لتتمكن "
+"من القيام بذلك."
+
+msgid ""
+"<b>Outcomes</b> provide a way to plan and track what is being taught in "
+"school, and so are a great place to get started.<br/><br/>Click on the "
+"\"Add\" button (below this message, on the right) to add a new outcome, "
+"which can either be school-wide, or attached to a particular department."
+msgstr ""
+"<b>النتائج</b> توفر وسيلة لتخطيط وتتبع ما يتم تدريسه في المدرسة، لذا فهي مكان "
+"عظيم للبدء.<br/><br/>انقر على زر \"إضافة\" (أسفل هذه الرسالة، على اليمين) لإضافة "
+"نتيجة جديدة، التي يمكن أن تكون على مستوى المدرسة بأكملها، أو مرتبطة بقسم معين."
+
+msgid ""
+"<b>Planner</b> supports online lesson plans which can be shared with "
+"students, parents and other teachers. Create your lesson by hand, or "
+"automatically via %1$sSmart Units%2$s. Lesson plans facilitate sharing of "
+"course content, homework assignment and submission, text chat, and "
+"attendance taking.<br/><br/>Choose a date or class, using the menu on the "
+"right, and then click on the \"Add\" button (below this message, on the "
+"right) to add a new unit."
+msgstr ""
+"<b>المنظم</b> يدعم خطط الدروس عبر الإنترنت التي يمكن مشاركتها مع الطلاب وأولياء "
+"الأمور والمعلمين الآخرين. أنشئ درسًا يدويًا، أو تلقائيًا عبر %1$sالوحدات الذكية%2$s. "
+"تسهم خطط الدروس في مشاركة محتوى الدورة، تكليف الواجبات المنزلية وتقديمها، الدردشة "
+"النصية، وتسجيل الحضور.<br/><br/>اختر تاريخًا أو فصلًا، باستخدام القائمة على اليمين، "
+"ثم انقر على زر \"إضافة\" (أسفل هذه الرسالة، على اليمين) لإضافة وحدة جديدة."
+
+msgid ""
+"<b>Smart Units</b> support you in the design of course content, and can be "
+"quickly turned into individual lesson plans using intuitive drag and drop. "
+"Smart Units cut planning time dramatically, and support ongoing improvement "
+"and reuse of content.<br/><br/>Choose a course, using the dropdown menu on "
+"the right, and then click on the \"Add\" button (below this message, on the "
+"right) to add a new unit. Once your master unit is complete, deploy it to a "
+"class to create your lesson plans."
+msgstr ""
+"<b>الوحدات الذكية</b> تدعمك في تصميم محتوى الدورة، ويمكن تحويلها بسرعة إلى خطط دروس "
+"فردية باستخدام ميزة السحب والإفلات التفاعلية. تقلل الوحدات الذكية من وقت التخطيط بشكل "
+"كبير، وتدعم التحسين المستمر وإعادة استخدام المحتوى.<br/><br/>اختر دورة، باستخدام قائمة "
+"المنسدلة على اليمين، ثم انقر على زر \"إضافة\" (أسفل هذه الرسالة، على اليمين) لإضافة وحدة "
+"جديدة. بمجرد اكتمال الوحدة الرئيسية، قم بنشرها إلى فصل لإنشاء خطط دروسك."
+
+msgid "A"
+msgstr "أ"
+
+msgid "A %1$s behaviour record for %2$s has been updated by %3$s."
+msgstr ""
+"تم تحديث سجل سلوك %1$s لـ %2$s بواسطة %3$s."
+
+msgid "A (highest) to E (lowest)"
+msgstr "A (الأعلى) إلى E (الأدنى)"
+
+msgid "A (highest) to F (lowest)"
+msgstr "A (الأعلى) إلى F (الأدنى)"
+
+msgid "A Behaviour CLI script has run."
+msgstr "تم تنفيذ برنامج CLI للسلوك."
+
+msgid "A Library Overdue Items CLI script has run, notifying %1$s users."
+msgstr ""
+"تم تنفيذ برنامج CLI للمواد المتأخرة في المكتبة، وإبلاغ %1$s مستخدمين."
+
+msgid "A Markbook column has already been created for this assignment."
+msgstr "تمت بالفعل إنشاء عمود في دفتر العلامات لهذه المهمة."
+
+msgid "A Planner CLI script has run."
+msgstr "تم تنفيذ برنامج CLI للمنظم."
+
+msgid ""
+"A Remove Stale Notifications CLI script has run, removing %1$s notifications."
+msgstr ""
+"تم تنفيذ برنامج CLI لإزالة الإشعارات القديمة، وإزالة %1$s إشعار."
+
+msgid "A Report Card Generation CLI script has run."
+msgstr "تم تنفيذ برنامج CLI لإنشاء بطاقة التقرير."
+
+msgid "A School Admin CLI script has run."
+msgstr "تم تنفيذ برنامج CLI لمسؤول المدرسة."
+
+msgid "A User Admin CLI script has run, updating %1$s users."
+msgstr ""
+"تم تنفيذ برنامج CLI لإدارة المستخدمين، وتحديث %1$s مستخدمين."
+
+msgid ""
+"A comma separated list of domains that are allowed in embedded iFrames. All "
+"others will be removed from HTML content."
+msgstr ""
+"قائمة مفصولة بفواصل من النطاقات المسموح بها في الإطارات المدمجة. سيتم إزالة جميع "
+"النطاقات الأخرى من محتوى HTML."
+
+msgid "A comma separated list of module categories in display order."
+msgstr ""
+"قائمة مفصولة بفواصل من فئات الوحدات بترتيب العرض."
+
+msgid "A comma-separated list of types for facilities."
+msgstr "قائمة مفصولة بفواصل من أنواع المرافق."
+
+msgid "A comma-separated list."
+msgstr "قائمة مفصولة بفواصل."
+
+msgid "A custom alarm sound file."
+msgstr "ملف صوت إنذار مخصص."
+
+msgid ""
+"A custom message sent to applicants by email when a processing fee needs to "
+"be paid."
+msgstr ""
+"رسالة مخصصة تُرسل إلى المتقدمين عبر البريد الإلكتروني عندما يحتاجون لدفع رسوم "
+"معالجة."
+
+msgid "A custom message to add to the standard email on acceptance."
+msgstr ""
+"رسالة مخصصة تضاف إلى البريد الإلكتروني القياسي عند القبول."
+
+msgid "A custom message to add to the standard email to parents on acceptance."
+msgstr ""
+"رسالة مخصصة تضاف إلى البريد الإلكتروني القياسي لأولياء الأمور عند القبول."
+
+msgid ""
+"A custom message to add to the standard email to students on acceptance."
+msgstr "رسالة مخصصة تضاف إلى البريد الإلكتروني القياسي للطلاب عند القبول."
+
+msgid ""
+"A database connection could not be established. Please %1$stry again%2$s."
+msgstr ""
+"تعذر إنشاء اتصال بقاعدة البيانات. يرجى %1$str尝试 مرة أخرى%2$s."
+
+msgid "A database entry for this record could not be found. Record skipped."
+msgstr ""
+"لم يتم العثور على إدخال قاعدة بيانات لهذا السجل. تم تخطي السجل."
+
+msgid "A duplicate entry already exists for this record. Record skipped."
+msgstr ""
+"توجد بالفعل إدخالات مكررة لهذا السجل. تم تخطي السجل."
+
+msgid "A family data update request has been submitted."
+msgstr "تم تقديم طلب لتحديث بيانات الأسرة."
+
+msgid "A finance data update request has been submitted."
+msgstr "تم تقديم طلب لتحديث البيانات المالية."
+
+msgid ""
+"A first aid record has been created for {name} at {time}. Your follow-up has "
+"been requested. Please click below to view and enter details."
+msgstr ""
+"تم إنشاء سجل للإسعافات الأولية لـ {name} في {time}. تم طلب متابعتك. يرجى النقر "
+"أدناه لعرض وإدخال التفاصيل."
+
+msgid "A follow up request was sent to the selected user."
+msgstr "تم إرسال طلب متابعة إلى المستخدم المحدد."
+
+msgid ""
+"A form can consist of one or more pages, which are saved at each step of the "
+"form submission. Add pages here and click design to add fields to the form."
+msgstr ""
+"يمكن أن يتكون النموذج من صفحة واحدة أو أكثر، والتي يتم حفظها في كل خطوة من "
+"عملية تقديم النموذج. أضف صفحات هنا وانقر على تصميم لإضافة حقول إلى النموذج."
+
+msgid "A link to the school behaviour policy."
+msgstr "رابط إلى سياسة سلوك المدرسة."
+
+msgid "A list of areas to pre-select when undertaking data retention work."
+msgstr ""
+"قائمة بالمجالات التي يجب تحديدها مسبقًا عند إجراء عمل حفظ البيانات."
+
+msgid "A list of students who were absent during the provided period."
+msgstr "قائمة بالطلاب الذين كانوا غائبين خلال الفترة المحددة."
+
+msgid "A medical data update request has been submitted."
+msgstr "تم تقديم طلب لتحديث البيانات الطبية."
+
+msgid "A message to display on all pages when maintenance mode is active."
+msgstr ""
+"رسالة لعرضها على جميع الصفحات عندما يكون وضع الصيانة نشطًا."
+
+msgid "A name to identify this contract."
+msgstr "اسم لتحديد هذا العقد."
+
+msgid ""
+"A name to use for \"Homework\" in the planner. This noun should be in a "
+"plural form."
+msgstr ""
+"اسم لاستخدامه لـ \"الواجبات المنزلية\" في المنظم. يجب أن يكون هذا الاسم بصيغة "
+"الجمع."
+
+msgid ""
+"A name to use for \"Homework\" in the planner. This noun should be in a "
+"singular form."
+msgstr ""
+"اسم لاستخدامه لـ \"الواجبات المنزلية\" في المنظم. يجب أن يكون هذا الاسم بصيغة "
+"المفرد."
+
+msgid "A new Individual Needs investigation has been created for {student}."
+msgstr ""
+"تم إنشاء تحقيق جديد في احتياجات الفرد لـ {student}."
+
+msgid "A new admissions account has been created for {email}"
+msgstr "تم إنشاء حساب قبول جديد لـ {email}."
+
+msgid "A new family was created for {familyName}."
+msgstr "تم إنشاء عائلة جديدة لـ {familyName}."
+
+msgid "A new public registration, for %1$s, is now live."
+msgstr "تسجيل عام جديد لـ %1$s، أصبح الآن مباشرًا."
+
+msgid "A new staff member has been added: {name} ({username}) {jobTitle}"
+msgstr ""
+"تمت إضافة عضو جديد في الفريق: {name} ({username}) {jobTitle}."
+
+msgid ""
+"A newly approved expense (%1$s) needs to be purchased from budget \"%2$s\"."
+msgstr ""
+"مصاريف جديدة تم الموافقة عليها (%1$s) يجب شراؤها من الميزانية \"%2$s\"."
+
+msgid "A notification will be sent to administration."
+msgstr "سترسل إشعار إلى الإدارة."
+
+msgid ""
+"A password reset request has been initiated for account %1$s, which is "
+"registered to this email address.%2$sIf you did not initiate this request, "
+"please ignore this email.%2$sIf you do wish to reset your password, please "
+"use the link below to access the reset form:%2$s%3$s%2$s%4$s"
+msgstr ""
+"تم بدء طلب إعادة تعيين كلمة المرور للحساب %1$s، الذي تم تسجيله على عنوان البريد "
+"الإلكتروني هذا.%2$s إذا لم تقم ببدء هذا الطلب، يرجى تجاهل هذا البريد الإلكتروني. %2$s "
+"إذا كنت ترغب في إعادة تعيين كلمة المرور الخاصة بك، يرجى استخدام الرابط أدناه للوصول إلى "
+"نموذج إعادة التعيين: %2$s %3$s %2$s %4$s"
+
+msgid "A payment has already been made for this application form."
+msgstr "تمت بالفعل عملية دفع لهذا نموذج الطلب."
+
+msgid "A personal data update request has been submitted."
+msgstr "تم تقديم طلب لتحديث البيانات الشخصية."
+
+msgid ""
+"A processing fee of {fee} may be sent by email after your application has "
+"been submitted."
+msgstr ""
+"يمكن أن يتم إرسال رسوم معالجة بمقدار {fee} عبر البريد الإلكتروني بعد تقديم طلبك."
+
+msgid "A report for bulk creation of student ID cards."
+msgstr "تقرير لإنشاء بطاقات هوية الطلاب بكميات كبيرة."
+
+msgid "A report showing all new students in the current school year."
+msgstr ""
+"تقرير يعرض جميع الطلاب الجدد في العام الدراسي الحالي."
+
+msgid ""
+"A report showing all the students who have left within a specified date "
+"range."
+msgstr ""
+"تقرير يعرض جميع الطلاب الذين غادروا ضمن فترة زمنية محددة."
+
+msgid ""
+"A request to create a applicant email address and/or website address failed. "
+"Please contact %1$s to request these manually."
+msgstr ""
+"فشل طلب إنشاء عنوان بريد إلكتروني للمتقدم و/أو عنوان موقع إلكتروني. يرجى الاتصال بـ %1$s "
+"لطلب هذه يدويًا."
+
+msgid ""
+"A request to create a applicant email address and/or website address was "
+"successfully sent to %1$s."
+msgstr ""
+"تم إرسال طلب إنشاء عنوان بريد إلكتروني للمتقدم و/أو عنوان موقع إلكتروني بنجاح إلى %1$s."
+
+msgid ""
+"A request to create a student email address and/or website address failed. "
+"Please contact %1$s to request these manually."
+msgstr ""
+"فشل طلب إنشاء عنوان بريد إلكتروني للطالب و/أو عنوان موقع إلكتروني. يرجى الاتصال بـ %1$s "
+"لطلب هذه يدويًا."
+
+msgid ""
+"A request to create a student email address and/or website address was "
+"successfully sent to %1$s."
+msgstr ""
+"تم إرسال طلب إنشاء عنوان بريد إلكتروني للطالب و/أو عنوان موقع إلكتروني بنجاح إلى %1$s."
+
+msgid ""
+"A short name to use instead of \"Effort\" in the second grade column of the "
+"markbook.."
+msgstr ""
+"اسم قصير لاستخدامه بدلاً من \"الجهد\" في عمود الدرجة الثانية من دفتر العلامات."
+
+msgid "A staff data update request has been submitted."
+msgstr "تم تقديم طلب لتحديث بيانات الموظفين."
+
+msgid "A name to use instead of \"Effort\" in the second grade column of the markbook."
+msgstr "اسم لاستخدامه بدلاً من \"الجهد\" dans la deuxième colonne des notes du carnet de notes."
+
+msgid "A student (%1$s) in your form group has received a behaviour letter."
+msgstr "تلقى طالب (%1$s) في مجموعتك رسالة سلوك."
+
+msgid "A system for keeping track of marks"
+msgstr "نظام لتتبع الدرجات"
+
+msgid ""
+"A time cap of <b><u>{timeCap} minute</u></b> has been set for this work."
+msgstr ""
+"تم تحديد حد زمني قدره <b><u>{timeCap} دقيقة</u></b> لهذا العمل."
+
+msgid "A unique secret key generated by the OAuth2 service."
+msgstr "مفتاح سري فريد تم إنشاؤه بواسطة خدمة OAuth2."
+
+msgid ""
+"A warning has been issued for a student (%1$s) in one of your classes, "
+"pending a behaviour letter."
+msgstr ""
+"تم إصدار تحذير لطالب (%1$s) في إحدى فصولك الدراسية، بانتظار رسالة سلوك."
+
+msgid ""
+"A warning has been issued for a student (%1$s) in your form group,\n"
+"                                     pending a behaviour letter."
+msgstr ""
+"تم إصدار تحذير لطالب (%1$s) في مجموعتك،\n"
+"                                      بانتظار رسالة سلوك."
+
+msgid ""
+"A warning has been issued for a student (%1$s) in your form group, pending a "
+"behaviour letter."
+msgstr ""
+"تم إصدار تحذير لطالب (%1$s) في مجموعتك، بانتظار رسالة سلوك."
+
+msgid "A week-by-week overview of staff absences."
+msgstr "نظرة عامة أسبوعية على غيابات الموظفين."
+
+msgid "A welcome email could not be sent to"
+msgstr "لم يتمكن من إرسال بريد الترحيب إلى"
+
+msgid "A welcome email was successfully sent to"
+msgstr "تم إرسال بريد الترحيب بنجاح إلى"
+
+msgid "A*"
+msgstr "A*"
+
+msgid "A* (highest) to U (lowest)"
+msgstr "A* (الأعلى) إلى U (الأدنى)"
+
+msgid "A+"
+msgstr "A+"
+
+msgid "A+ (highest) to F (lowest)"
+msgstr "A+ (الأعلى) إلى F (الأدنى)"
+
+msgid "A-"
+msgstr "A-"
+
+msgid "A/B"
+msgstr "A/B"
+
+msgid "A4"
+msgstr "A4"
+
+msgid "API Authorization Endpoint"
+msgstr "نقطة نهاية تفويض API"
+
+msgid "API Client ID"
+msgstr "معرف عميل API"
+
+msgid "API Client Secret"
+msgstr "سر عميل API"
+
+msgid "API Enabled"
+msgstr "API مفعل"
+
+msgid "API Key"
+msgstr "مفتاح API"
+
+msgid "API Password"
+msgstr "كلمة مرور API"
+
+msgid "API Password provided by PayPal."
+msgstr "كلمة مرور API المقدمة من PayPal."
+
+msgid "API Redirect Uri"
+msgstr "عنوان URI لإعادة توجيه API"
+
+msgid "API Secret/Auth Token"
+msgstr "سر API/رمز التوثيق"
+
+msgid "API Signature"
+msgstr "توقيع API"
+
+msgid "API Signature provided by PayPal."
+msgstr "توقيع API المقدمة من PayPal."
+
+msgid "API Token Endpoint"
+msgstr "نقطة نهاية رمز API"
+
+msgid "API User Endpoint"
+msgstr "نقطة نهاية مستخدم API"
+
+msgid "API Username"
+msgstr "اسم مستخدم API"
+
+msgid "API Username provided by PayPal."
+msgstr "اسم مستخدم API المقدمة من PayPal."
+
+msgid "API details are provided by the payment gateway provider"
+msgstr ""
+"تفاصيل API مقدمة من مزود بوابة الدفع"
+
+msgid "Ability to hold a conversation"
+msgstr "القدرة على إجراء محادثة"
+
+msgid ""
+"Ability to use appropriate non-verbal communication (eye contact, facial "
+"expressions, gestures, body language)"
+msgstr ""
+"القدرة على استخدام التواصل غير اللفظي المناسب (التواصل البصري، التعبيرات "
+"الوجهية، الإيماءات، لغة الجسد)"
+
+msgid "Above Expected Level"
+msgstr "أعلى من المستوى المتوقع"
+
+msgid "Absence"
+msgstr "غياب"
+
+msgid "Absence Approvers"
+msgstr "الموافقون على الغياب"
+
+msgid "Absence Comment Template"
+msgstr "قالب تعليق الغياب"
+
+msgid "Absence Type"
+msgstr "نوع الغياب"
+
+msgid "Absences"
+msgstr "غيابات"
+
+msgid "Absent"
+msgstr "غائب"
+
+msgid "Accept"
+msgstr "قبول"
+
+msgid "Accept Application"
+msgstr "قبول طلب التسجيل"
+
+msgid "Accept Coverage Request"
+msgstr "قبول طلب التغطية"
+
+msgid "Acceptance Email"
+msgstr "بريد القبول"
+
+msgid "Acceptance Options"
+msgstr "خيارات القبول"
+
+msgid "Accepted"
+msgstr "مقبول"
+
+msgid "Accepts PDF files."
+msgstr "يقبل ملفات PDF."
+
+msgid "Accepts aspect ratio between 1:1.2 and 1:1.4."
+msgstr "يقبل نسبة العرض إلى الارتفاع بين 1:1.2 و 1:1.4."
+
+msgid "Accepts images up to 360px by 480px."
+msgstr "يقبل الصور حتى 360 بكسل في 480 بكسل."
+
+msgid "Access"
+msgstr "وصول"
+
+msgid "Access Controls?"
+msgstr "ضوابط الوصول؟"
+
+msgid "Access Settings"
+msgstr "إعدادات الوصول"
+
+msgid "Access data on family's children?"
+msgstr "الوصول إلى بيانات أطفال الأسرة؟"
+
+msgid "Access denied."
+msgstr "الوصول مرفوض"
+
+msgid "Access your Application Forms"
+msgstr "الوصول إلى نماذج الطلبات الخاصة بك"
+
+msgid "Accessories"
+msgstr "ملحقات"
+
+msgid "Account Details"
+msgstr "تفاصيل الحساب"
+
+msgid "Acorn"
+msgstr "Acorn"
+
+msgid "Action"
+msgstr "إجراء"
+
+msgid "Action & Archive"
+msgstr "إجراء وأرشيف"
+
+msgid "Action Taken"
+msgstr "الإجراءات المتخذة"
+
+msgid "Actions"
+msgstr "إجراءات"
+
+msgid "Active"
+msgstr "نشط"
+
+msgid "Active Features"
+msgstr "الميزات النشطة"
+
+msgid "Active Sessions"
+msgstr "الجلسات النشطة"
+
+msgid "Activities"
+msgstr "أنشطة"
+
+msgid "Activities - Student Added"
+msgstr "أنشطة - طالب مضاف"
+
+msgid "Activity"
+msgstr "نشاط"
+
+msgid "Activity Attendance"
+msgstr "حضور النشاط"
+
+msgid "Activity Attendance by Date"
+msgstr "حضور النشاط حسب التاريخ"
+
+msgid "Activity Choices By Student"
+msgstr "اختيارات النشاط حسب الطالب"
+
+msgid "Activity Choices by Student"
+msgstr "اختيارات النشاط حسب الطالب"
+
+msgid "Activity Enrolment"
+msgstr "تسجيل النشاط"
+
+msgid "Activity Enrolment Added"
+msgstr "تسجيل النشاط مضاف"
+
+msgid "Activity Enrolment Removed"
+msgstr "تسجيل النشاط تم حذفه"
+
+msgid "Activity Enrolment Summary"
+msgstr "ملخص تسجيل النشاط"
+
+msgid "Activity Registration"
+msgstr "تسجيل النشاط"
+
+msgid "Activity Status Changed"
+msgstr "تم تغيير حالة النشاط"
+
+msgid "Activity Types"
+msgstr "أنواع النشاط"
+
+msgid "Activity listing is currently closed."
+msgstr "قائمة الأنشطة مغلقة حالياً."
+
+msgid "Activity name."
+msgstr "اسم النشاط."
+
+msgid "Ad Hoc"
+msgstr "عند الحاجة"
+
+msgid "Ad Hoc Attendance"
+msgstr "حضور عند الحاجة"
+
+msgid "Ad Hoc Fee"
+msgstr "رسوم عند الحاجة"
+
+msgid "Add"
+msgstr "إضافة"
+
+msgid "Add & Insert A New Resource"
+msgstr "إضافة وإدراج مورد جديد"
+
+msgid "Add Access"
+msgstr "إضافة وصول"
+
+msgid "Add Activity"
+msgstr "إضافة نشاط"
+
+msgid "Add Adult"
+msgstr "إضافة بالغ"
+
+msgid "Add Another Application"
+msgstr "إضافة طلب آخر"
+
+msgid "Add Another Resource"
+msgstr "إضافة مورد آخر"
+
+msgid "Add Another Slot"
+msgstr "إضافة فتحة أخرى"
+
+msgid "Add Application"
+msgstr "إضافة طلب"
+
+msgid "Add Archive"
+msgstr "إضافة أرشيف"
+
+msgid "Add Assessment"
+msgstr "إضافة تقييم"
+
+msgid "Add Attendance Code"
+msgstr "إضافة رمز الحضور"
+
+msgid "Add Block"
+msgstr "إضافة كتلة"
+
+msgid "Add Block:"
+msgstr "إضافة كتلة:"
+
+msgid "Add Budget"
+msgstr "إضافة ميزانية"
+
+msgid "Add Budget Cycle"
+msgstr "إضافة دورة ميزانية"
+
+msgid "Add Canned Response"
+msgstr "إضافة رد موحد"
+
+msgid "Add Category"
+msgstr "إضافة فئة"
+
+msgid "Add Child"
+msgstr "إضافة طفل"
+
+msgid "Add Class"
+msgstr "إضافة صف"
+
+msgid "Add Class to Period"
+msgstr "إضافة صف إلى فترة"
+
+msgid "Add Classes"
+msgstr "إضافة صفوف"
+
+msgid "Add Column"
+msgstr "إضافة عمود"
+
+msgid "Add Column Row"
+msgstr "إضافة صف إلى عمود"
+
+msgid "Add Comment"
+msgstr "إضافة تعليق"
+
+msgid "Add Condition"
+msgstr "إضافة شرط"
+
+msgid "Add Contract"
+msgstr "إضافة عقد"
+
+msgid "Add Course"
+msgstr "إضافة دورة"
+
+msgid "Add Coverage"
+msgstr "إضافة تغطية"
+
+msgid "Add Criteria"
+msgstr "إضافة معايير"
+
+msgid "Add Criteria Type"
+msgstr "إضافة نوع معايير"
+
+msgid "Add Custom Field"
+msgstr "إضافة حقل مخصص"
+
+msgid "Add Day to Date"
+msgstr "إضافة يوم إلى التاريخ"
+
+msgid "Add Department"
+msgstr "إضافة قسم"
+
+msgid "Add Descriptor"
+msgstr "إضافة وصف"
+
+msgid "Add District"
+msgstr "إضافة منطقة"
+
+msgid "Add Entry"
+msgstr "إضافة مدخل"
+
+msgid "Add Exception"
+msgstr "إضافة استثناء"
+
+msgid "Add Expense"
+msgstr "إضافة مصروفات"
+
+msgid "Add Expense Approver"
+msgstr "إضافة موافق على المصروفات"
+
+msgid "Add Expense Request"
+msgstr "إضافة طلب مصروفات"
+
+msgid "Add External Assessment"
+msgstr "إضافة تقييم خارجي"
+
+msgid "Add Facility"
+msgstr "إضافة مرفق"
+
+msgid "Add Facility Booking"
+msgstr "إضافة حجز مرفق"
+
+msgid "Add Facility Change"
+msgstr "إضافة تغيير مرفق"
+
+msgid "Add Family"
+msgstr "إضافة عائلة"
+
+msgid "Add Fee"
+msgstr "إضافة رسم"
+
+msgid "Add Fees & Invoices"
+msgstr "إضافة رسوم وفواتير"
+
+msgid "Add Field"
+msgstr "إضافة حقل"
+
+msgid "Add File Extension"
+msgstr "إضافة امتداد ملف"
+
+msgid "Add Form"
+msgstr "إضافة نموذج"
+
+msgid "Add Grade"
+msgstr "إضافة درجة"
+
+msgid "Add Grade Scale"
+msgstr "إضافة مقياس درجات"
+
+msgid "Add Group"
+msgstr "إضافة مجموعة"
+
+msgid "Add House"
+msgstr "إضافة منزل"
+
+msgid "Add Item"
+msgstr "إضافة عنصر"
+
+msgid "Add Job Opening"
+msgstr "إضافة وظيفة شاغرة"
+
+msgid "Add Lessons"
+msgstr "إضافة دروس"
+
+msgid "Add Markbook Weighting"
+msgstr "إضافة وزن إلى دفتر الدرجات"
+
+msgid "Add Medical Condition"
+msgstr "إضافة حالة طبية"
+
+msgid "Add Medical Form"
+msgstr "إضافة نموذج طبي"
+
+msgid "Add Members"
+msgstr "إضافة أعضاء"
+
+msgid "Add Milestone"
+msgstr "إضافة معلم"
+
+msgid "Add More Items"
+msgstr "إضافة المزيد من العناصر"
+
+msgid "Add Multiple"
+msgstr "إضافة متعددة"
+
+msgid "Add Multiple Columns"
+msgstr "إضافة أعمدة متعددة"
+
+msgid "Add Multiple Criteria"
+msgstr "إضافة معايير متعددة"
+
+msgid "Add Multiple Records"
+msgstr "إضافة سجلات متعددة"
+
+msgid "Add New Assistants"
+msgstr "إضافة مساعدين جدد"
+
+msgid "Add Note Category"
+msgstr "إضافة فئة ملاحظات"
+
+msgid "Add Outcome"
+msgstr "إضافة نتيجة"
+
+msgid "Add Page"
+msgstr "إضافة صفحة"
+
+msgid "Add Participants"
+msgstr "إضافة مشاركين"
+
+msgid "Add Periods"
+msgstr "إضافة فترات"
+
+msgid "Add Personal Document Type"
+msgstr "إضافة نوع مستند شخصي"
+
+msgid "Add Post"
+msgstr "إضافة منشور"
+
+msgid "Add Report"
+msgstr "إضافة تقرير"
+
+msgid "Add Reporting Cycle"
+msgstr "إضافة دورة تقارير"
+
+msgid "Add Resource"
+msgstr "إضافة مورد"
+
+msgid "Add Role"
+msgstr "إضافة دور"
+
+msgid "Add Rubric"
+msgstr "إضافة معايير تقييم"
+
+msgid "Add School Year"
+msgstr "إضافة سنة دراسية"
+
+msgid "Add Scope"
+msgstr "إضافة نطاق"
+
+msgid "Add Shelf"
+msgstr "إضافة رف"
+
+msgid "Add Special Day"
+msgstr "إضافة يوم خاص"
+
+msgid "Add Staff"
+msgstr "إضافة موظف"
+
+msgid "Add String"
+msgstr "إضافة سلسلة"
+
+msgid "Add Student"
+msgstr "إضافة طالب"
+
+msgid "Add Student Enrolment"
+msgstr "إضافة تسجيل طالب"
+
+msgid "Add Student Note"
+msgstr "إضافة ملاحظة عن الطالب"
+
+msgid "Add Submission"
+msgstr "إضافة تقديم"
+
+msgid "Add Substitute"
+msgstr "إضافة بديل"
+
+msgid "Add Template"
+msgstr "إضافة نموذج"
+
+msgid "Add Term"
+msgstr "إضافة فصل دراسي"
+
+msgid "Add Time Slot"
+msgstr "إضافة فترة زمنية"
+
+msgid "Add Timetable"
+msgstr "إضافة جدول زمني"
+
+msgid "Add Timetable Day"
+msgstr "إضافة يوم إلى الجدول الزمني"
+
+msgid "Add Timetable Entry"
+msgstr "إضافة مدخل إلى الجدول الزمني"
+
+msgid "Add Unit"
+msgstr "إضافة وحدة"
+
+msgid "Add User"
+msgstr "إضافة مستخدم"
+
+msgid "Add Username Format"
+msgstr "إضافة تنسيق اسم المستخدم"
+
+msgid "Add Weighting"
+msgstr "إضافة وزن"
+
+msgid "Add Year Following %1$s"
+msgstr "إضافة السنة التي تلي %1$s"
+
+msgid "Add Year Group"
+msgstr "إضافة مجموعة سنة"
+
+msgid ""
+"Add blocks of text to your form, such as additional information or "
+"instructions for users to follow."
+msgstr ""
+"أضف كتل نصية إلى نموذجك، مثل المعلومات الإضافية أو التعليمات التي يجب "
+"على المستخدمين اتباعها."
+
+msgid "Add lesson plan"
+msgstr "إضافة خطة درس"
+
+msgid "Add linked application(s)"
+msgstr "إضافة تطبيقات مرتبطة"
+
+msgid "Add {homeworkName}?"
+msgstr "إضافة {homeworkName}؟"
+
+msgid "Add, edit and delete external assessments."
+msgstr "إضافة، تعديل وحذف التقييمات الخارجية."
+
+msgid ""
+"Add/update of periods from import failed. Parts of your timetable may "
+"display correctly, but others may be missing, incomplete or incorrect."
+msgstr ""
+"فشل إضافة/تحديث الفترات من الاستيراد. قد يظهر بعض أجزاء جدولك الزمني "
+"بشكل صحيح، ولكن قد تكون أجزاء أخرى مفقودة أو غير كاملة أو غير صحيحة."
+
+msgid ""
+"Add/update of periods from import was successful. You may now wish to set "
+"long name, learning area and year groups for any new courses created in Step "
+"2."
+msgstr ""
+"تمت إضافة/تحديث الفترات من الاستيراد بنجاح. يمكنك الآن تحديد اسم طويل، "
+"منطقة تعلم ومجموعات سنوات لأي دورات جديدة تم إنشاؤها في الخطوة 2."
+
+msgid "Additional"
+msgstr "إضافي"
+
+msgid "Additional Parameters"
+msgstr "معلمات إضافية"
+
+msgid "Additional Users to Notify"
+msgstr "مستخدمون إضافيون للإشعار"
+
+msgid ""
+"Additional allowable choices for purpose when creating a resource, for those "
+"with \"Manage All Resources\" rights"
+msgstr ""
+"خيارات إضافية مسموح بها عند إنشاء مورد، لأولئك الذين لديهم حقوق \"إدارة "
+"جميع الموارد\""
+
+msgid ""
+"Additional details about this medical condition. Attachments are only "
+"visible to users who manage medical data."
+msgstr ""
+"تفاصيل إضافية حول هذه الحالة الطبية. المرفقات مرئية فقط للمستخدمين الذين "
+"يديرون البيانات الطبية."
+
+msgid ""
+"Additional information such as year group preference, language preference, "
+"etc."
+msgstr ""
+"معلومات إضافية مثل تفضيلات الفصول الدراسية، تفضيلات اللغة، وما إلى ذلك."
+
+msgid "Address"
+msgstr "عنوان"
+
+msgid "Address 1"
+msgstr "عنوان 1"
+
+msgid "Address 1 Country"
+msgstr "عنوان 1 - بلد"
+
+msgid "Address 1 District"
+msgstr "عنوان 1 - منطقة"
+
+msgid "Address 2"
+msgstr "عنوان 2"
+
+msgid "Address 2 Country"
+msgstr "عنوان 2 - بلد"
+
+msgid "Address 2 District"
+msgstr "عنوان 2 - منطقة"
+
+msgid "Address Name"
+msgstr "اسم العنوان"
+
+msgid ""
+"Address information for an individual only needs to be set under the "
+"following conditions:"
+msgstr ""
+"يجب تعيين معلومات العنوان للفرد فقط في الحالات التالية:"
+
+msgid "Adds PHPMailer settings for servers with an SMTP connection."
+msgstr ""
+"يضيف إعدادات PHPMailer للخوادم التي تستخدم اتصال SMTP."
+
+msgid ""
+"Adds a Message Wall widget to the home page, highlighting current messages."
+msgstr ""
+"يضيف عنصر واجهة مستخدم لجدار الرسائل إلى الصفحة الرئيسية، مع تسليط الضوء على "
+"الرسائل الحالية."
+
+msgid ""
+"Adds a Message Wall widget to the home page, hihglighting current messages."
+msgstr ""
+"يضيف عنصر واجهة مستخدم لجدار الرسائل إلى الصفحة الرئيسية، مع تسليط الضوء على "
+"الرسائل الحالية."
+
+msgid ""
+"Adds a checkbox that must be checked to confirm agreement with a statement "
+"before the form can be submitted."
+msgstr ""
+"يضيف مربع اختيار يجب تحديده لتأكيد الموافقة على بيان قبل تقديم النموذج."
+
+msgid "Adds blank pages as required between individual reports."
+msgstr ""
+"يضيف صفحات فارغة حسب الحاجة بين التقارير الفردية."
+
+msgid "Adjust the user's roles within the system."
+msgstr "تعديل أدوار المستخدم داخل النظام."
+
+msgid "Adjusting behaviour to suit contexts"
+msgstr "تكييف السلوك ليتناسب مع السياقات"
+
+msgid "Adm"
+msgstr "Adm"
+
+msgid "Admin"
+msgstr "مدير"
+
+msgid "Administration"
+msgstr "إدارة"
+
+msgid "Administrator"
+msgstr "مسؤول"
+
+msgid "Administrators only"
+msgstr "للمسؤولين فقط"
+
+msgid "Admissions"
+msgstr "القبول"
+
+msgid "Admissions Account"
+msgstr "حساب القبول"
+
+msgid "Admissions Accounts"
+msgstr "حسابات القبول"
+
+msgid "Admissions Administrator"
+msgstr "مسؤول القبول"
+
+msgid "Admissions Link Name"
+msgstr "اسم رابط القبول"
+
+msgid "Admissions Link Text"
+msgstr "نص رابط القبول"
+
+msgid "Admissions Settings"
+msgstr "إعدادات القبول"
+
+msgid "Admissions Welcome"
+msgstr "ترحيب القبول"
+
+msgid "Admissions Welcome Heading"
+msgstr "عنوان ترحيب القبول"
+
+msgid "Admissions Welcome Text"
+msgstr "نص ترحيب القبول"
+
+msgid "Adobe Flash"
+msgstr "أدوبي فلاش"
+
+msgid "Adobe Flash Video"
+msgstr "فيديو أدوبي فلاش"
+
+msgid "Adobe Illustrator"
+msgstr "أدوبي إليستريتور"
+
+msgid "Adobe Photoshop"
+msgstr "أدوبي فوتوشوب"
+
+msgid "Adoptive Parent"
+msgstr "الوالد بالتبني"
+
+msgid "Adult"
+msgstr "بالغ"
+
+msgid "Adult Family Members"
+msgstr "أفراد العائلة البالغين"
+
+msgid "Adult's Name"
+msgstr "اسم البالغ"
+
+msgid "Adults"
+msgstr "بالغون"
+
+msgid "Advance School Year"
+msgstr "تقديم السنة الدراسية"
+
+msgid "Advance was successful, you are now in a new academic year!"
+msgstr ""
+"تم تقديم السنة الدراسية بنجاح، أنت الآن في سنة أكاديمية جديدة!"
+
+msgid "Advanced Options"
+msgstr "خيارات متقدمة"
+
+msgid "Afghanistan"
+msgstr "أفغانستان"
+
+msgid "Africa/Abidjan"
+msgstr "أفريقيا / أبيدجان"
+
+msgid "Africa/Accra"
+msgstr "أفريقيا / أكرا"
+
+msgid "Africa/Addis_Ababa"
+msgstr "أفريقيا / أديس أبابا"
+
+msgid "Africa/Algiers"
+msgstr "أفريقيا / الجزائر"
+
+msgid "Africa/Asmara"
+msgstr "أفريقيا / أسمرة"
+
+msgid "Africa/Bamako"
+msgstr "أفريقيا / باماكو"
+
+msgid "Africa/Bangui"
+msgstr "أفريقيا / بانغي"
+
+msgid "Africa/Banjul"
+msgstr "أفريقيا / بانجول"
+
+msgid "Africa/Bissau"
+msgstr "أفريقيا / غينيا بيساو"
+
+msgid "Africa/Blantyre"
+msgstr "أفريقيا / بلانتير"
+
+msgid "Africa/Brazzaville"
+msgstr "أفريقيا / برازافيل"
+
+msgid "Africa/Bujumbura"
+msgstr "أفريقيا / بوجمبورا"
+
+msgid "Africa/Cairo"
+msgstr "أفريقيا / القاهرة"
+
+msgid "Africa/Casablanca"
+msgstr "أفريقيا / الدار البيضاء"
+
+msgid "Africa/Ceuta"
+msgstr "أفريقيا / سبتة"
+
+msgid "Africa/Conakry"
+msgstr "أفريقيا / كوناكري"
+
+msgid "Africa/Dakar"
+msgstr "أفريقيا / داكار"
+
+msgid "Africa/Dar_es_Salaam"
+msgstr "أفريقيا / دار السلام"
+
+msgid "Africa/Djibouti"
+msgstr "أفريقيا / جيبوتي"
+
+msgid "Africa/Douala"
+msgstr "أفريقيا / دوالا"
+
+msgid "Africa/El_Aaiun"
+msgstr "أفريقيا / العيون"
+
+msgid "Africa/Freetown"
+msgstr "أفريقيا / فريتاون"
+
+msgid "Africa/Gaborone"
+msgstr "أفريقيا / غابورون"
+
+msgid "Africa/Harare"
+msgstr "أفريقيا / هراري"
+
+msgid "Africa/Johannesburg"
+msgstr "أفريقيا / جوهانسبرغ"
+
+msgid "Africa/Juba"
+msgstr "أفريقيا / جوبا"
+
+msgid "Africa/Kampala"
+msgstr "أفريقيا / كمبالا"
+
+msgid "Africa/Khartoum"
+msgstr "أفريقيا / الخرطوم"
+
+msgid "Africa/Kigali"
+msgstr "أفريقيا / كيغالي"
+
+msgid "Africa/Kinshasa"
+msgstr "أفريقيا / كينشاسا"
+
+msgid "Africa/Lagos"
+msgstr "أفريقيا / لاغوس"
+
+msgid "Africa/Libreville"
+msgstr "أفريقيا / ليبرفيل"
+
+msgid "Africa/Lome"
+msgstr "أفريقيا / لومي"
+
+msgid "Africa/Luanda"
+msgstr "أفريقيا / لواندا"
+
+msgid "Africa/Lubumbashi"
+msgstr "أفريقيا / لو بومباشي"
+
+msgid "Africa/Lusaka"
+msgstr "أفريقيا / لوساكا"
+
+msgid "Africa/Malabo"
+msgstr "أفريقيا / مالابو"
+
+msgid "Africa/Maputo"
+msgstr "أفريقيا / مابوتو"
+
+msgid "Africa/Maseru"
+msgstr "أفريقيا / ماسيرو"
+
+msgid "Africa/Mbabane"
+msgstr "أفريقيا / مبابان"
+
+msgid "Africa/Mogadishu"
+msgstr "أفريقيا / مقديشو"
+
+msgid "Africa/Monrovia"
+msgstr "أفريقيا / مونروفيا"
+
+msgid "Africa/Nairobi"
+msgstr "أفريقيا / نيروبي"
+
+msgid "Africa/Ndjamena"
+msgstr "أفريقيا / نجامينا"
+
+msgid "Africa/Niamey"
+msgstr "أفريقيا / نيامي"
+
+msgid "Africa/Nouakchott"
+msgstr "أفريقيا / نواكشوط"
+
+msgid "Africa/Ouagadougou"
+msgstr "أفريقيا / واغادوغو"
+
+msgid "Africa/Porto-Novo"
+msgstr "أفريقيا / بورتو نوفو"
+
+msgid "Africa/Sao_Tome"
+msgstr "أفريقيا / ساو تومي"
+
+msgid "Africa/Tripoli"
+msgstr "أفريقيا / طرابلس"
+
+msgid "Africa/Tunis"
+msgstr "أفريقيا / تونس"
+
+msgid "Africa/Windhoek"
+msgstr "أفريقيا / ويندهوك"
+
+msgid "Afrikaans"
+msgstr "أفريكانية"
+
+msgid "After End Date"
+msgstr "بعد تاريخ الانتهاء"
+
+msgid ""
+"After confirming receipt, the alarm will continue to be displayed until an "
+"administrator has cancelled the alarm."
+msgstr ""
+"بعد تأكيد الاستلام، ستستمر الإنذارات في العرض حتى يقوم المسؤول بإلغاء "
+"الإنذار."
+
+msgid "After how many negative records should letter 1 be sent?"
+msgstr ""
+"بعد كم عدد السجلات السلبية يجب إرسال الرسالة 1؟"
+
+msgid "After how many negative records should letter 2 be sent?"
+msgstr ""
+"بعد كم عدد السجلات السلبية يجب إرسال الرسالة 2؟"
+
+msgid "After how many negative records should letter 3 be sent?"
+msgstr ""
+"بعد كم عدد السجلات السلبية يجب إرسال الرسالة 3؟"
+
+msgid "After how many positive records should letter 1 be sent?"
+msgstr ""
+"بعد كم عدد السجلات الإيجابية يجب إرسال الرسالة 1؟"
+
+msgid "After how many positive records should letter 2 be sent?"
+msgstr ""
+"بعد كم عدد السجلات الإيجابية يجب إرسال الرسالة 2؟"
+
+msgid "After how many positive records should letter 3 be sent?"
+msgstr ""
+"بعد كم عدد السجلات الإيجابية يجب إرسال الرسالة 3؟"
+
+msgid ""
+"After you press the Register button below, your application will be "
+"considered by a member of staff who will decide whether or not there is "
+"space for you in this program."
+msgstr ""
+"بعد الضغط على زر التسجيل أدناه، سيتم النظر في طلبك من قبل أحد أعضاء "
+"الطاقم الذي سيقرر ما إذا كان هناك مكان لك في هذا البرنامج أم لا."
+
+msgid "Age"
+msgstr "العمر"
+
+msgid "Age & Gender Summary"
+msgstr "ملخص العمر والجنس"
+
+msgid "Agreement"
+msgstr "اتفاق"
+
+msgid ""
+"Agreement that user must confirm before joining. Blank for no agreement."
+msgstr ""
+"اتفاق يجب على المستخدم تأكيده قبل الانضمام. اتركه فارغًا إذا لم يكن هناك اتفاق."
+
+msgid "Agreements Signed:"
+msgstr "الاتفاقات الموقعة:"
+
+msgid "Alarm"
+msgstr "إنذار"
+
+msgid "Alarm!"
+msgstr "إنذار!"
+
+msgid "Albania"
+msgstr "ألبانيا"
+
+msgid "Albanian"
+msgstr "الألبانية"
+
+msgid "Alert Level"
+msgstr "مستوى الإنذار"
+
+msgid "Alerts"
+msgstr "تنبيهات"
+
+msgid "Algeria"
+msgstr "الجزائر"
+
+msgid "All"
+msgstr "الكل"
+
+msgid "All Ages"
+msgstr "جميع الأعمار"
+
+msgid "All Attendance Logs"
+msgstr "جميع سجلات الحضور"
+
+msgid "All Classes"
+msgstr "جميع الصفوف"
+
+msgid "All Columns"
+msgstr "جميع الأعمدة"
+
+msgid "All Coverage Requests"
+msgstr "جميع طلبات التغطية"
+
+msgid "All Day"
+msgstr "طوال اليوم"
+
+msgid "All Day%1$s Events"
+msgstr "فعاليات طوال اليوم %1$s"
+
+msgid "All Enrolled Students by Alphabet"
+msgstr "جميع الطلاب المسجلين حسب الترتيب الأبجدي"
+
+msgid "All Enrolled Students by Class"
+msgstr "جميع الطلاب المسجلين حسب الصف"
+
+msgid "All Fields"
+msgstr "جميع الحقول"
+
+msgid "All Homework"
+msgstr "جميع الواجبات"
+
+msgid "All Learning Areas"
+msgstr "جميع مناطق التعلم"
+
+msgid "All Pages"
+msgstr "جميع الصفحات"
+
+msgid "All Roles"
+msgstr "جميع الأدوار"
+
+msgid "All Staff"
+msgstr "جميع الموظفين"
+
+msgid "All Students"
+msgstr "جميع الطلاب"
+
+msgid "All Students by Alphabet"
+msgstr "جميع الطلاب حسب الترتيب الأبجدي"
+
+msgid "All Students by Class"
+msgstr "جميع الطلاب حسب الصف"
+
+msgid "All Students by Form Group"
+msgstr "جميع الطلاب حسب مجموعة الفصل"
+
+msgid "Students by Form Group"
+msgstr "الطلاب حسب مجموعة الفصل"
+
+msgid "Form Group Summary"
+msgstr "ملخص مجموعة الفصل"
+
+msgid "Letters Home by Form Group"
+msgstr "رسائل إلى المنزل حسب مجموعة الفصل"
+
+msgid "All Terms"
+msgstr "جميع الفصول الدراسية"
+
+msgid "All Users"
+msgstr "جميع المستخدمين"
+
+msgid "All Years"
+msgstr "جميع السنوات"
+
+msgid "All classes have been registered today (%1$s)."
+msgstr "تم تسجيل جميع الصفوف اليوم (%1$s)."
+
+msgid "All classes have been registered."
+msgstr "تم تسجيل جميع الصفوف."
+
+msgid "All coverage requests have been filled!"
+msgstr "تم تلبية جميع طلبات التغطية!"
+
+msgid ""
+"All documents must all be included before the application can be submitted."
+msgstr ""
+"يجب تضمين جميع الوثائق قبل أن يتم تقديم الطلب."
+
+msgid "All form groups have been registered today (%1$s)."
+msgstr "تم تسجيل جميع مجموعات الفصل اليوم (%1$s)."
+
+msgid "All highlighted columns will be updated when you press submit."
+msgstr ""
+"ستتم تحديث جميع الأعمدة المميزة عندما تضغط على إرسال."
+
+msgid "All of your tables are set to InnoDB. Well done!"
+msgstr "جميع جداولك محددة على InnoDB. عمل جيد!"
+
+msgid "All students are present."
+msgstr "جميع الطلاب موجودون."
+
+msgid "All years"
+msgstr "جميع السنوات"
+
+msgid "Allergy - Animal"
+msgstr "حساسية - حيوانية"
+
+msgid "Allergy - Drug"
+msgstr "حساسية - دواء"
+
+msgid "Allergy - Food"
+msgstr "حساسية - طعام"
+
+msgid "Allergy - Grass/Pollen"
+msgstr "حساسية - عشب/لقاح"
+
+msgid "Allergy - Insect"
+msgstr "حساسية - حشرة"
+
+msgid "Allergy - Other"
+msgstr "حساسية - أخرى"
+
+msgid "Allow Expense Add"
+msgstr "السماح بإضافة المصاريف"
+
+msgid "Allow File Upload"
+msgstr "السماح بتحميل الملفات"
+
+msgid "Allow Future Use"
+msgstr "السماح بالاستخدام المستقبلي"
+
+msgid "Allow Outcome Editing"
+msgstr "السماح بتعديل النتائج"
+
+msgid "Allow a user to manage all Indiviudal Needs investigations."
+msgstr ""
+"السماح للمستخدم بإدارة جميع التحقيقات في احتياجات الأفراد."
+
+msgid "Allow a user to manage their own Indiviudal Needs investigations."
+msgstr ""
+"السماح للمستخدم بإدارة تحقيقاته الخاصة في احتياجات الأفراد."
+
+msgid "Allow admins to create and manage timetables"
+msgstr "السماح للمسؤولين بإنشاء وإدارة الجداول الزمنية"
+
+msgid "Allow admins to manage timetable columns"
+msgstr "السماح للمسؤولين بإدارة أعمدة الجدول الزمني"
+
+msgid ""
+"Allow command line scripts to be run remotely using a secure key. The key "
+"can be passed as a URL parameter called remoteCLIKey."
+msgstr ""
+"السماح بتشغيل سكربتات سطر الأوامر عن بُعد باستخدام مفتاح أمان. يمكن تمرير "
+"المفتاح كمعامل عنوان URL يسمى remoteCLIKey."
+
+msgid "Allow crowd assessment of homework?"
+msgstr "السماح بتقييم الواجبات من قبل الطلاب؟"
+
+msgid "Allow students to choose a backup, in case enroled activity is full."
+msgstr ""
+"السماح للطلاب باختيار بديل في حال كانت النشاطات المسجلة ممتلئة."
+
+msgid "Allow users to update their family's data"
+msgstr "السماح للمستخدمين بتحديث بيانات أسرهم"
+
+msgid "Allow users to view assessment data for all students"
+msgstr ""
+"السماح للمستخدمين بعرض بيانات التقييم لجميع الطلاب"
+
+msgid ""
+"Allow users who do not have access to the unit planner to see Unit Outlines "
+"via the lesson planner?"
+msgstr ""
+"السماح للمستخدمين الذين ليس لديهم وصول إلى مخطط الوحدة برؤية مخططات الوحدة "
+"من خلال مخطط الدروس؟"
+
+msgid "Allowable HTML"
+msgstr "HTML المسموح بها"
+
+msgid "Allowable choices for category"
+msgstr "الخيارات المسموح بها للفئة"
+
+msgid "Allowable choices for purpose when creating a resource"
+msgstr "الخيارات المسموح بها للغرض عند إنشاء مورد"
+
+msgid "Allowable iFrame Sources"
+msgstr "مصادر iFrame المسموح بها"
+
+msgid ""
+"Allows Class Teachers and Heads of Year to contribute to investigations."
+msgstr ""
+"يسمح للمعلمين ورؤساء السنوات بالمساهمة في التحقيقات."
+
+msgid ""
+"Allows a department coordinator to manage changes for all classes in their "
+"department."
+msgstr ""
+"يسمح لمنسق القسم بإدارة التغييرات لجميع الصفوف في قسمه."
+
+msgid ""
+"Allows a departmental Coordinator or Assistant Coordinator to manage student "
+"enrolment within their department."
+msgstr ""
+"يسمح لمنسق القسم أو مساعد المنسق بإدارة تسجيل الطلاب داخل قسمهم."
+
+msgid "Allows a parent to view external assessment records for their children."
+msgstr ""
+"يسمح للوالدين بمراجعة سجلات التقييم الخارجي لأطفالهم."
+
+msgid "Allows a school to issue invoices and track payments."
+msgstr ""
+"يسمح للمدرسة بإصدار الفواتير وتتبع المدفوعات."
+
+msgid "Allows a staff member to request coverage for their absences."
+msgstr ""
+"يسمح لعضو من الطاقم بطلب تغطية لغياباته."
+
+msgid ""
+"Allows a student to print a report of their attendance data in the current "
+"school year."
+msgstr ""
+"يسمح للطلاب بطباعة تقرير عن بيانات حضورهم للسنة الدراسية الحالية."
+
+msgid "Allows a student to view their own external assessment records."
+msgstr ""
+"يسمح للطالب بمراجعة سجلات تقييمه الخارجي."
+
+msgid "Allows a student to view their own invoices."
+msgstr "يسمح للطالب بمراجعة فواتيره الخاصة."
+
+msgid ""
+"Allows a sufficiently priviledged user to create and manage budget cycles."
+msgstr ""
+"يسمح لمستخدم ذو امتيازات كافية بإنشاء وإدارة الدورات المالية."
+
+msgid ""
+"Allows a user to book a room for on-off use, and manage bookings made by all "
+"other users."
+msgstr ""
+"يسمح للمستخدم بحجز غرفة لاستخدامها لمرة واحدة، وإدارة الحجوزات التي قام "
+"بها جميع المستخدمين الآخرين."
+
+msgid ""
+"Allows a user to book a room for on-off use, and manage their own bookings."
+msgstr ""
+"يسمح للمستخدم بحجز غرفة لاستخدامها لمرة واحدة، وإدارة حجوزاته الخاصة."
+
+msgid ""
+"Allows a user to create and manage one-off location changes for all classes "
+"within the timetable."
+msgstr ""
+"يسمح للمستخدم بإنشاء وإدارة تغييرات الموقع لمرة واحدة لجميع الصفوف ضمن "
+"الجدول الزمني."
+
+msgid ""
+"Allows a user to create and manage one-off location changes for their own "
+"classes within the timetable."
+msgstr ""
+"يسمح للمستخدم بإنشاء وإدارة تغييرات الموقع لمرة واحدة لصفوفه الخاصة ضمن "
+"الجدول الزمني."
+
+msgid "Allows a user to create, edit and delete custom fields for users."
+msgstr ""
+"يسمح للمستخدم بإنشاء وتعديل وحذف الحقول المخصصة للمستخدمين."
+
+msgid ""
+"Allows a user to export certain key assessment data points to a spreadsheet."
+msgstr ""
+"يسمح للمستخدم بتصدير بعض نقاط البيانات الأساسية للتقييم إلى جدول بيانات."
+
+msgid "Allows a user to manage settings for the Tracking module."
+msgstr "يسمح للمستخدم بإدارة إعدادات وحدة التتبع."
+
+msgid "Allows a user to request expenses from budgets they have access to."
+msgstr ""
+"يسمح للمستخدم بطلب مصاريف من الميزانيات التي يملك وصولًا إليها."
+
+msgid ""
+"Allows a user to see all days, periods, teachers and rooms in a timetable."
+msgstr ""
+"يسمح للمستخدم برؤية جميع الأيام، والفترات، والمعلمين، والغرف في جدول "
+"الوقت."
+
+msgid ""
+"Allows a user to see progress tracking graphs for all students in school."
+msgstr ""
+"يسمح للمستخدم برؤية الرسوم البيانية لتتبع التقدم لجميع الطلاب في المدرسة."
+
+msgid "Allows a user to submit their own staff absences."
+msgstr ""
+"يسمح للمستخدم بتقديم غيابات موظفيه الخاصة."
