@@ -463,7 +463,7 @@ class MarkbookView
         }
 
         $DAS = $this->getDefaultAssessmentScale();
-        return "<span title='" . number_format(round($average, 2), 2) . "'>" . round($average, 0) . $DAS['percent'] . "</span>";
+        return "<span title='" . number_format(round($average, 2), 2) . "'>" . round($average, 2) . $DAS['percent'] . "</span>";
     }
 
     /**
@@ -642,6 +642,9 @@ class MarkbookView
             $overallTotal = 0;
             $overallCumulative = 0;
 
+            $totalTermMarks = 0;
+            $nbrTerms = 0;
+
             // Calculate the 'term' averages (Cumulative Average)
             foreach ($averages as $termID => $term) {
                 if ($termID == 'final') {
@@ -667,7 +670,10 @@ class MarkbookView
                 $termAverage = ($termTotal > 0) ? ($termCumulative / $termTotal) : '';
 
                 $weightedAverages['term'][$termID] = $termAverage;
+                $totalTermMarks += $termAverage;
+                $nbrTerms+=1;
             }
+            $customFinalGrade = round($totalTermMarks / $nbrTerms,2);
 
             $terms = array_keys($averages);
 
@@ -749,14 +755,17 @@ class MarkbookView
 
             // The overall weight is 100 minus the sum of Final Grade weights
             $overallWeight = min(100.0, max(0.0, 100.0 - $finalTotal));
+
             $overallAverage = ($overallTotal > 0) ? ($overallCumulative / $overallTotal) : 0;
 
-            $weightedAverages['cumulative'] = $overallAverage > 0 ? $overallAverage : '';
+            //$weightedAverages['cumulative'] = $overallAverage > 0 ? $overallAverage : '';
+            $weightedAverages['cumulative'] = $customFinalGrade > 0 ? $customFinalGrade : '';
 
             $finalTotal += $overallWeight;
             $finalCumulative += ($overallAverage * $overallWeight);
 
-            $weightedAverages['finalGrade'] = ($finalTotal > 0) ? ($finalCumulative / $finalTotal) : '';
+            //$weightedAverages['finalGrade'] = ($finalTotal > 0) ? ($finalCumulative / $finalTotal) : '';
+            $weightedAverages['finalGrade'] = ($customFinalGrade > 0) ? $customFinalGrade : '';
 
             // Save all the weighted averages in a per-student array
             $this->weightedAverages[$gibbonPersonID] = $weightedAverages;

@@ -303,8 +303,8 @@ if (isActionAccessible($guid, $connection2, '/modules/Students/student_view_deta
                                     ->setURL('/modules/User Admin/user_manage_edit.php');
                         }
 
-                        $table->addColumn('name', __('Name'))
-                                ->format(Format::using('name', ['', 'preferredName', 'surname', 'Student']));
+                        $table->addColumn('name', __('PreferredName Surname'))
+                            ->format(Format::using('name', ['', 'preferredName', 'surname', 'Student']));
 
                         $table->addColumn('officialName', __('Official Name'));
 

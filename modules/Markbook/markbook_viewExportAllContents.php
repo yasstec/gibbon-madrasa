@@ -90,7 +90,8 @@ if (isActionAccessible($guid, $connection2, '/modules/Markbook/markbook_view.php
         }
 
         //Print table header
-		$excel = new Gibbon\Excel('markbookAll.xlsx');
+        $exportFilename = $session->get('gibbonSchoolYearName').'-'.'markbookAll.xlsx';
+        $excel = new Gibbon\Excel($exportFilename);
 		if ($excel->estimateCellCount($result) > 8000)    //  If too big, then render csv instead.
 			return Gibbon\csv::generate($pdo, 'markbookColumn');
 		$excel->setActiveSheetIndex(0);
@@ -177,10 +178,7 @@ if (isActionAccessible($guid, $connection2, '/modules/Markbook/markbook_view.php
         if (isset($DAS['percent']) && $DAS['percent'] == '%') {
             $markFormat = NumberFormat::FORMAT_PERCENTAGE;
         }
-        else if (isset($DAS['numeric']) && $DAS['numeric'] == 'Y') {
-            $markFormat = NumberFormat::FORMAT_NUMBER;
-        }
-
+        
         // Add columns for Overall Grades, if enabled
         if ($markbook->getSetting('enableColumnWeighting') == 'Y') {
             $markSuffix = (isset($DAS['percent']))? $DAS['percent'] : '';

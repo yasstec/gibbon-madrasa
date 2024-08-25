@@ -42,7 +42,7 @@ if (isActionAccessible($guid, $connection2, '/modules/User Admin/user_manage_add
     $title = $_POST['title'] ?? '';
     $surname = trim($_POST['surname'] ?? '');
     $firstName = trim($_POST['firstName'] ?? '');
-    $preferredName = trim($_POST['preferredName'] ?? '');
+    $preferredName = isset($_POST['preferredName']) && !empty(trim($_POST['preferredName'])) ? trim($_POST['preferredName']) : $firstName;
     $officialName = trim($_POST['officialName'] ?? '');
     $nameInCharacters = $_POST['nameInCharacters'] ?? '';
     $gender = $_POST['gender'] ?? '';
