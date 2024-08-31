@@ -5442,10 +5442,7 @@ msgid ""
 "Calculation of cumulative marks and weightings is currently only available "
 "when using Percentage as the Default Assessment Scale. This value can be "
 "changed in System Settings."
-msgstr ""
-"Le calcul des notes et pondérations cumulées n'est actuellement disponible "
-"que lorsque vous utilisez le pourcentage comme échelle d'évaluation par "
-"défaut. Cette valeur peut être modifiée dans les paramètres système."
+msgstr "Le calcul des moyennes de notes et des pondérations fonctionne uniquement pour le type de notation par défaut défini dans Admin -> Système -> Paramètres système -> Échelle d'évaluation par défaut."
 
 msgid "Calendar"
 msgstr "Calendrier"
@@ -8714,7 +8711,7 @@ msgid "Enable Descriptors"
 msgstr "Activer les descripteurs"
 
 msgid "Enable Display Cumulative Marks"
-msgstr "Activer l'affichage des notes cumulatives"
+msgstr "Activer l'affichage des Moyennes des notes"
 
 msgid "Enable Effort"
 msgstr "Activer l'effort"
@@ -12733,7 +12730,7 @@ msgid "Mail?"
 msgstr "Mail ?"
 
 msgid "Main Menu Category Order"
-msgstr "Menu principal Catégorie Commande"
+msgstr "Menu principal order des menus"
 
 msgid "Main Tutor"
 msgstr "Mentor principal"
@@ -18374,12 +18371,12 @@ msgid "Should columns have Rubrics section enabled?"
 msgstr "Les colonnes doivent-elles avoir la section Rubriques activée?"
 
 msgid "Should columns have the Effort section enabled?"
-msgstr "Les colonnes doivent-elles avoir la section Effort activée?"
+msgstr "Evaluer l'effort fourni par l'élève dans ses études, indépendamment de ses résultats (assiduité, persévérance, l'attitude de l'élève ...) "
 
 msgid ""
 "Should cumulative marks be displayed on the View Markbook page for Students "
 "and Parents and in Student Profiles?"
-msgstr "Les notes cumulatives doivent-elles être affichées sur la page de consultation du carnet de notes pour les élèves et les parents ainsi que dans les profils des élèves ?"
+msgstr "La moyenne des notes doit-elle être affichée sur la page de consultation du carnet de notes pour les élèves et les parents ainsi que dans les profils des élèves ?"
 
 msgid "Should existing timetable days be replaced by the new ones?"
 msgstr "Faut-il remplacer les jours horaires existants par les nouveaux ?"
@@ -23449,7 +23446,7 @@ msgstr ""
 "aucune authentification."
 
 msgid "Username/Email"
-msgstr "Nom d'utilisateur / Courriel"
+msgstr "Nom d'utilisateur / Adresse email"
 
 msgid "Users"
 msgstr "Utilisateurs"
