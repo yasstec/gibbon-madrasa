@@ -18792,7 +18792,7 @@ msgid ""
 "provide a visual view of the content blocks that make up a unit. Blocks may "
 "be any kind of content, such as discussion, assessments, group work, outcome "
 "etc."
-msgstr "Les Blocs Intelligents facilitent la planification des unités en aidant les enseignants à créer et à maintenir de nouvelles unités, en divisant le matériel en unités plus petites qui peuvent être intégrées dans les plans de leçon. En plus des champs prédéfinis à remplir, les Unités Intelligentes offrent une vue visuelle des blocs de contenu qui composent une unité. Les blocs peuvent inclure différents types de contenu, tels que des discussions, des évaluations, des travaux de groupe, des résultats, etc."
+msgstr "Les Blocs Intelligents aident à la planification des unités en offrant aux enseignants une assistance pour créer et maintenir de nouvelles unités, en divisant le contenu en unités plus petites qui peuvent être intégrées aux plans de cours. En plus des champs prédéfinis à remplir, les blocs fournissent une vue visuelle des contenus qui composent une unité. Les blocs peuvent représenter n'importe quel type de contenu, tel que des resources, documents, discussions, des évaluations, du travail de groupe, des résultats, etc."
 
 msgid "Smart Blocks listed here..."
 msgstr "Blocs intelligents répertoriés ici..."
