@@ -28,7 +28,7 @@ TODO: add template variable details.
 
                     <a id="header-logo" class="flex items-center space-x-4 p-4" href="{{ absoluteURL }}">
                         <img class="max-w-full {{ isLoggedIn ? 'h-12' : 'h-20 mt-4 mb-4' }}" alt="{{ organisationName }} Logo" src="{{ absoluteURL }}/{{ organisationLogo|default("themes/Default/img/logo.png")|trim('/', 'left') }}" style="max-height:100px;" />
-                        <span class="text-xl mt-2">Text</span>
+                        <label class="mx-5 text-white font-bold text-3xl" style="font-family: cursive;">{{ organisationName }}</label>
                     </a>
 
                     <div class="flex-grow flex items-center justify-end text-right text-sm text-{{ themeColour }}-200">

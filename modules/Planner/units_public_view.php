@@ -91,14 +91,11 @@ if ($makeUnitsPublic != 'Y') {
 
                 //Tabs
                 echo "<div id='tabs1'>";
-            echo '<h4>';
-            echo __('Description');
-            echo '</h4>';
-            if ($row['description'] == '') {
+            if ($row['details'] == '') {
                 echo $page->getBlankSlate();
             } else {
                 echo '<p>';
-                echo $row['description'];
+                echo $row['details'];
                 echo '</p>';
             }
 
